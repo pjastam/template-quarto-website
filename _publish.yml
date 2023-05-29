@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: d1983ae8-da83-4431-928f-3debf80a02a5
-      url: 'https://splendorous-bublanina-d544bb.netlify.app'
+      url: 'https://template-quarto-website.netlify.app'
