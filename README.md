@@ -6,10 +6,13 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of this repository is to provide a template for building a
-Quarto website and deploying it to Netlify with GitHub Actions. A how-to
-guide and this template is described in more detail in [a blog
-post](https://www.pietstam.nl/posts/2023-05-29-deploy-site-to-netlify-with-github-actions/).
+This repository provides a template for building a Quarto website and
+deploying it to Netlify with GitHub Actions. The instructions for using
+this template are described
+[here](https://www.pietstam.nl/posts/2023-05-29-deploy-site-to-netlify-with-github-actions/#a-versatile-template).
+These instructions are part of [my blog
+post](https://www.pietstam.nl/posts/2023-05-29-deploy-site-to-netlify-with-github-actions/)
+about creating this template and a how-to guide to do that yourself.
 
 # References
 
