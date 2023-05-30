@@ -1,23 +1,26 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# GitHub template for Quarto website on Netlify
+# Template for Quarto website on Netlify
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-This repository provides a template for building a Quarto website and
-deploying it to Netlify with GitHub Actions. The instructions for using
-this template are described
-[here](https://www.pietstam.nl/posts/2023-05-29-deploy-site-to-netlify-with-github-actions/#a-versatile-template).
-These instructions are part of [my blog
-post](https://www.pietstam.nl/posts/2023-05-29-deploy-site-to-netlify-with-github-actions/)
-about creating this template and a how-to guide to do that yourself.
+This repository provides a template for building a
+[Quarto](https://quarto.org/) website and deploying it to
+[Netlify](https://netlify.com/) with [GitHub
+Actions](https://github.com/features/actions). The creation of this
+template is described in detail in [my blog
+post](https://www.pietstam.nl/posts/2023-05-29-deploy-site-to-netlify-with-github-actions/).
 
-# References
+# Instructions
 
-- Blog post:
-  <https://www.pietstam.nl/posts/2023-05-29-deploy-site-to-netlify-with-github-actions/>
-- Quarto website: <https://template-quarto-website.netlify.app/>
-- This template repo:
-  <https://github.com/pjastam/template-quarto-website>
+To apply this template repository for your own use, follow the 6 steps
+as described in [A versatile
+template](https://www.pietstam.nl/posts/2023-05-29-deploy-site-to-netlify-with-github-actions/#a-versatile-template).
+
+# Demo
+
+Visit the [demo Quarto
+website](https://template-quarto-website.netlify.app/) that was created
+with the code in the template repository.
