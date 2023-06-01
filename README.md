@@ -16,8 +16,9 @@ post](https://www.pietstam.nl/posts/2023-05-29-deploy-site-to-netlify-with-githu
 # Instructions
 
 To apply this template repository for your own use, follow the 6 steps
-as described in [A versatile
-template](https://www.pietstam.nl/posts/2023-05-29-deploy-site-to-netlify-with-github-actions/#a-versatile-template).
+as described in the section [A versatile
+template](https://www.pietstam.nl/posts/2023-05-29-deploy-site-to-netlify-with-github-actions/#a-versatile-template)
+of my blog post.
 
 # Demo
 
